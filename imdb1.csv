@@ -1,0 +1,251 @@
+Name,Rated,Running Length,Genre,Release Date,Director,IMDB-Rating 
+1,The Shawshank Redemption (1994),R , 2h 22min , Drama , 14 October 1994 (USA),Frank Darabont,9.3
+2,The Godfather (1972),R , 2h 55min , Crime- Drama , 24 March 1972 (USA),Francis Ford Coppola,9.2
+3,The Godfather: Part II (1974),R , 3h 22min , Crime- Drama , 18 December 1974 (USA),Francis Ford Coppola,9.0
+4,The Dark Knight (2008),PG-13 , 2h 32min , Action- Crime- Drama , 18 July 2008 (USA),Christopher Nolan,9.0
+5,12 Angry Men (1957),Approved , 1h 36min , Crime- Drama , 10 April 1957 (USA),Sidney Lumet,8.9
+6,Schindler's List (1993),R , 3h 15min , Biography- Drama- History , 4 February 1994 (USA),Steven Spielberg,8.9
+7,The Lord of the Rings: The Return of the King (2003),PG-13 , 3h 21min , Adventure- Drama- Fantasy , 17 December 2003 (USA),Peter Jackson,8.9
+8,Pulp Fiction (1994),R , 2h 34min , Crime- Drama , 14 October 1994 (USA),Quentin Tarantino,8.9
+9,The Good- the Bad and the Ugly (1966),Il buono- il brutto- il cattivo (original title),Sergio Leone,8.8
+10,The Lord of the Rings: The Fellowship of the Ring (2001),PG-13 , 2h 58min , Action- Adventure- Drama , 19 December 2001 (USA),Peter Jackson,8.8
+11,Fight Club (1999),R , 2h 19min , Drama , 15 October 1999 (USA),David Fincher,8.8
+12,Forrest Gump (1994),PG-13 , 2h 22min , Drama- Romance , 6 July 1994 (USA),Robert Zemeckis,8.8
+13,Inception (2010),PG-13 , 2h 28min , Action- Adventure- Sci-Fi , 16 July 2010 (USA),Christopher Nolan,8.8
+14,Star Wars: Episode V - The Empire Strikes Back (1980),PG , 2h 4min , Action- Adventure- Fantasy , 20 June 1980 (USA),Irvin Kershner,8.7
+15,The Lord of the Rings: The Two Towers (2002),PG-13 , 2h 59min , Adventure- Drama- Fantasy , 18 December 2002 (USA),Peter Jackson,8.7
+16,The Matrix (1999),R , 2h 16min , Action- Sci-Fi , 31 March 1999 (USA),Lana Wachowski,8.7
+17,Goodfellas (1990),R , 2h 26min , Biography- Crime- Drama , 21 September 1990 (USA),Martin Scorsese,8.7
+18,One Flew Over the Cuckoo's Nest (1975),R , 2h 13min , Drama , 19 November 1975 (USA),Milos Forman,8.7
+19,Seven Samurai (1954),Shichinin no samurai (original title), ,8.6
+20,Se7en (1995),R , 2h 7min , Crime- Drama- Mystery , 22 September 1995 (USA),David Fincher,8.6
+21,Life Is Beautiful (1997),La vita è bella (original title),Roberto Benigni,8.6
+22,City of God (2002),Cidade de Deus (original title),Fernando Meirelles,8.6
+23,The Silence of the Lambs (1991),R , 1h 58min , Crime- Drama- Thriller , 14 February 1991 (USA),Jonathan Demme,8.6
+24,It's a Wonderful Life (1946),Passed , 2h 10min , Drama- Family- Fantasy , 7 January 1947 (USA),Frank Capra,8.6
+25,Star Wars: Episode IV - A New Hope (1977),Star Wars (original title),George Lucas,8.6
+26,Saving Private Ryan (1998),R , 2h 49min , Drama- War , 24 July 1998 (USA),Steven Spielberg,8.6
+27,Spirited Away (2001),Sen to Chihiro no kamikakushi (original title),Hayao Miyazaki,8.6
+28,Parasite (2019),Gisaengchung (original title),Bong Joon Ho,8.6
+29,The Green Mile (1999),R , 3h 9min , Crime- Drama- Fantasy , 10 December 1999 (USA),Frank Darabont,8.6
+30,Interstellar (2014),PG-13 , 2h 49min , Adventure- Drama- Sci-Fi , 7 November 2014 (USA),Christopher Nolan,8.6
+31,Léon: The Professional (1994),Léon (original title),Luc Besson,8.5
+32,The Usual Suspects (1995),R , 1h 46min , Crime- Mystery- Thriller , 16 August 1995 (USA),Bryan Singer,8.5
+33,Harakiri (1962),Seppuku (original title), ,8.7
+34,The Lion King (1994),G , 1h 28min , Animation- Adventure- Drama , 24 June 1994 (USA),Roger Allers,8.5
+35,Back to the Future (1985),PG , 1h 56min , Adventure- Comedy- Sci-Fi , 3 July 1985 (USA),Robert Zemeckis,8.5
+36,The Pianist (2002),R , 2h 30min , Biography- Drama- Music , 28 March 2003 (USA),Roman Polanski,8.5
+37,Terminator 2: Judgment Day (1991),R , 2h 17min , Action- Sci-Fi , 3 July 1991 (USA),James Cameron,8.5
+38,American History X (1998),R , 1h 59min , Drama , 20 November 1998 (USA),Tony Kaye,8.5
+39,Modern Times (1936),G , 1h 27min , Comedy- Drama- Family , 25 February 1936 (USA), ,8.5
+40,Psycho (1960),R , 1h 49min , Horror- Mystery- Thriller , 8 September 1960 (USA),Alfred Hitchcock,8.5
+41,Gladiator (2000),R , 2h 35min , Action- Adventure- Drama , 5 May 2000 (USA),Ridley Scott,8.5
+42,City Lights (1931),G , 1h 27min , Comedy- Drama- Romance , 7 March 1931 (USA), ,8.5
+43,The Departed (2006),R , 2h 31min , Crime- Drama- Thriller , 6 October 2006 (USA),Martin Scorsese,8.5
+44,The Intouchables (2011),Intouchables (original title),Olivier Nakache,8.5
+45,Whiplash (2014),R , 1h 46min , Drama- Music , 20 February 2015 (India),Damien Chazelle,8.5
+46,The Prestige (2006),PG-13 , 2h 10min , Drama- Mystery- Sci-Fi , 20 October 2006 (USA),Christopher Nolan,8.5
+47,Once Upon a Time in the West (1968),C'era una volta il West (original title),Sergio Leone,8.5
+48,Grave of the Fireflies (1988),Hotaru no haka (original title),Isao Takahata,8.5
+49,Casablanca (1942),PG , 1h 42min , Drama- Romance- War , 23 January 1943 (USA),Michael Curtiz,8.5
+50,Cinema Paradiso (1988),Nuovo Cinema Paradiso (original title),Giuseppe Tornatore,8.5
+51,Rear Window (1954),PG , 1h 52min , Mystery- Thriller , September 1954 (USA),Alfred Hitchcock,8.4
+52,Alien (1979),R , 1h 57min , Horror- Sci-Fi , 22 June 1979 (USA),Ridley Scott,8.4
+53,Apocalypse Now (1979),R , 2h 27min , Drama- Mystery- War , 15 August 1979 (USA),Francis Ford Coppola,8.4
+54,Memento (2000),R , 1h 53min , Mystery- Thriller , 25 May 2001 (USA),Christopher Nolan,8.4
+55,Raiders of the Lost Ark (1981),PG , 1h 55min , Action- Adventure , 12 June 1981 (USA),Steven Spielberg,8.4
+56,The Great Dictator (1940),Passed , 2h 5min , Comedy- Drama- War , 7 March 1941 (USA),Charles Chaplin,8.4
+57,Joker (2019),R , 2h 2min , Crime- Drama- Thriller , 4 October 2019 (USA),Todd Phillips,8.5
+58,The Lives of Others (2006),Das Leben der Anderen (original title), ,8.4
+59,Django Unchained (2012),R , 2h 45min , Drama- Western , 25 December 2012 (USA),Quentin Tarantino,8.4
+60,Paths of Glory (1957),Approved , 1h 28min , Drama- War , 25 December 1957 (USA),Stanley Kubrick,8.4
+61,The Shining (1980),R , 2h 26min , Drama- Horror , 13 June 1980 (USA),Stanley Kubrick,8.4
+62,WALL·E (2008),G , 1h 38min , Animation- Adventure- Family , 27 June 2008 (USA),Andrew Stanton,8.4
+63,Avengers: Infinity War (2018),PG-13 , 2h 29min , Action- Adventure- Sci-Fi , 27 April 2018 (USA),Anthony Russo,8.4
+64,Sunset Blvd. (1950),Passed , 1h 50min , Drama- Film-Noir , 29 September 1950 (Australia),Billy Wilder,8.4
+65,Spider-Man: Into the Spider-Verse (2018),PG , 1h 57min , Animation- Action- Adventure , 14 December 2018 (USA),Bob Persichetti,8.4
+66,Princess Mononoke (1997),Mononoke-hime (original title),Hayao Miyazaki,8.4
+67,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),PG , 1h 35min , Comedy , 29 January 1964 (USA),Stanley Kubrick,8.4
+68,Witness for the Prosecution (1957),Approved , 1h 56min , Crime- Drama- Mystery , 6 February 1958 (USA),Billy Wilder,8.4
+69,Oldboy (2003),Oldeuboi (original title),Chan-wook Park,8.4
+70,The Dark Knight Rises (2012),PG-13 , 2h 44min , Action- Adventure , 20 July 2012 (USA),Christopher Nolan,8.4
+71,Once Upon a Time in America (1984),R , 3h 49min , Crime- Drama , 1 June 1984 (USA),Sergio Leone,8.4
+72,Avengers: Endgame (2019),PG-13 , 3h 1min , Action- Adventure- Drama , 26 April 2019 (USA),Anthony Russo,8.4
+73,Aliens (1986),R , 2h 17min , Action- Adventure- Sci-Fi , 18 July 1986 (USA),James Cameron,8.3
+74,Your Name. (2016),Kimi no na wa. (original title),Makoto Shinkai,8.4
+75,Coco (2017),PG , 1h 45min , Animation- Adventure- Family , 22 November 2017 (USA),Lee Unkrich,8.4
+76,American Beauty (1999),R , 2h 2min , Drama , 1 October 1999 (USA),Sam Mendes,8.3
+77,Braveheart (1995),R , 2h 58min , Biography- Drama- History , 24 May 1995 (USA),Mel Gibson,8.3
+78,Das Boot (1981),R , 2h 29min , Adventure- Drama- Thriller , 10 February 1982 (USA),Wolfgang Petersen,8.3
+79,3 Idiots (2009),PG-13 , 2h 50min , Comedy- Drama , 25 December 2009 (India),Rajkumar Hirani,8.4
+80,Toy Story (1995),G , 1h 21min , Animation- Adventure- Comedy , 22 November 1995 (USA),John Lasseter,8.3
+81,High and Low (1963),Tengoku to jigoku (original title),Akira Kurosawa,8.4
+82,Taare Zameen Par (2007),PG , 2h 45min , Drama- Family , 21 December 2007 (India),Aamir Khan,8.4
+83,Amadeus (1984),R , 2h 40min , Biography- Drama- History , 19 September 1984 (USA),Milos Forman,8.3
+84,Star Wars: Episode VI - Return of the Jedi (1983),PG , 2h 11min , Action- Adventure- Fantasy , 25 May 1983 (USA),Richard Marquand,8.3
+85,Reservoir Dogs (1992),R , 1h 39min , Crime- Drama- Thriller , 2 September 1992 (France),Quentin Tarantino,8.3
+86,Inglourious Basterds (2009),R , 2h 33min , Adventure- Drama- War , 21 August 2009 (USA),Quentin Tarantino,8.3
+87,Good Will Hunting (1997),R , 2h 6min , Drama- Romance , 9 January 1998 (USA),Gus Van Sant,8.3
+88,2001: A Space Odyssey (1968),G , 2h 29min , Adventure- Sci-Fi , 12 May 1968 (UK),Stanley Kubrick,8.3
+89,1917 (2019),R , 1h 59min , Drama- War , 10 January 2020 (USA),Sam Mendes,8.3
+90,Capernaum (2018),Capharnaüm (original title),Nadine Labaki,8.4
+91,Vertigo (1958),PG , 2h 8min , Mystery- Romance- Thriller , 22 May 1958 (UK),Alfred Hitchcock,8.3
+92,Requiem for a Dream (2000),R , 1h 42min , Drama , 15 December 2000 (USA),Darren Aronofsky,8.3
+93,M (1931),M - Eine Stadt sucht einen Mörder (original title),Fritz Lang,8.3
+94,Dangal (2016),Not Rated , 2h 41min , Action- Biography- Drama , 21 December 2016 (USA),Nitesh Tiwari,8.4
+95,Eternal Sunshine of the Spotless Mind (2004),R , 1h 48min , Drama- Romance- Sci-Fi , 19 March 2004 (USA),Michel Gondry,8.3
+96,The Hunt (2012),Jagten (original title),Thomas Vinterberg,8.3
+97,Citizen Kane (1941),PG , 1h 59min , Drama- Mystery , 5 September 1941 (USA),Orson Welles,8.3
+98,Full Metal Jacket (1987),R , 1h 56min , Drama- War , 10 July 1987 (USA),Stanley Kubrick,8.3
+99,Bicycle Thieves (1948),Ladri di biciclette (original title),Vittorio De Sica,8.3
+100,North by Northwest (1959),Approved , 2h 16min , Adventure- Mystery- Thriller , 26 September 1959 (Japan),Alfred Hitchcock,8.3
+101,A Clockwork Orange (1971),R , 2h 16min , Crime- Drama- Sci-Fi , 2 February 1972 (USA),Stanley Kubrick,8.3
+102,The Kid (1921),Passed , 1h 8min , Comedy- Drama- Family , 6 February 1921 (USA), ,8.3
+103,Snatch (2000),R , 1h 42min , Comedy- Crime , 19 January 2001 (USA),Guy Ritchie,8.3
+104,Singin' in the Rain (1952),G , 1h 43min , Comedy- Musical- Romance , 11 April 1952 (USA),Stanley Donen,8.3
+105,Anand (1971),Not Rated , 2h 2min , Drama- Musical , 12 March 1971 (India),Hrishikesh Mukherjee,8.6
+106,Scarface (1983),R , 2h 50min , Crime- Drama , 9 December 1983 (USA),Brian De Palma,8.3
+107,Taxi Driver (1976),R , 1h 54min , Crime- Drama , 9 February 1976 (USA),Martin Scorsese,8.3
+108,Amélie (2001),Le fabuleux destin d'Amélie Poulain (original title),Jean-Pierre Jeunet,8.3
+109,Lawrence of Arabia (1962),Approved , 3h 48min , Adventure- Biography- Drama , 11 December 1962 (UK),David Lean,8.3
+110,Toy Story 3 (2010),G , 1h 43min , Animation- Adventure- Comedy , 18 June 2010 (USA),Lee Unkrich,8.3
+111,The Sting (1973),PG , 2h 9min , Comedy- Crime- Drama , 25 December 1973 (USA),George Roy Hill,8.3
+112,Ikiru (1952),Not Rated , 2h 23min , Drama , 25 March 1956 (USA), ,8.3
+113,Metropolis (1927),Not Rated , 2h 33min , Drama- Sci-Fi , 13 March 1927 (USA),Fritz Lang,8.3
+114,A Separation (2011),Jodaeiye Nader az Simin (original title),Asghar Farhadi,8.3
+115,For a Few Dollars More (1965),Per qualche dollaro in più (original title),Sergio Leone,8.3
+116,The Apartment (1960),Not Rated , 2h 5min , Comedy- Drama- Romance , 16 September 1960 (France),Billy Wilder,8.3
+117,Double Indemnity (1944),Passed , 1h 47min , Crime- Drama- Film-Noir , 6 July 1944 (USA),Billy Wilder,8.3
+118,Incendies (2010),R , 2h 11min , Drama- Mystery- War , 12 January 2011 (France),Denis Villeneuve,8.3
+119,To Kill a Mockingbird (1962),Approved , 2h 9min , Crime- Drama , 16 March 1963 (USA),Robert Mulligan,8.2
+120,Indiana Jones and the Last Crusade (1989),PG-13 , 2h 7min , Action- Adventure , 24 May 1989 (USA),Steven Spielberg,8.2
+121,Up (2009),PG , 1h 36min , Animation- Adventure- Comedy , 29 May 2009 (USA),Pete Docter,8.2
+122,L.A. Confidential (1997),R , 2h 18min , Crime- Drama- Mystery , 19 September 1997 (USA),Curtis Hanson,8.2
+123,Heat (1995),R , 2h 50min , Crime- Drama- Thriller , 15 December 1995 (USA),Michael Mann,8.2
+124,Come and See (1985),Idi i smotri (original title),Elem Klimov,8.3
+125,Monty Python and the Holy Grail (1975),PG , 1h 31min , Adventure- Comedy- Fantasy , 6 December 1979 (India),Terry Gilliam,8.2
+126,Die Hard (1988),R , 2h 12min , Action- Thriller , 20 July 1988 (USA),John McTiernan,8.2
+127,Rashomon (1950),Rashômon (original title), ,8.2
+128,Yojimbo (1961),Yôjinbô (original title), ,8.2
+129,Batman Begins (2005),PG-13 , 2h 20min , Action- Adventure , 15 June 2005 (USA),Christopher Nolan,8.2
+130,Green Book (2018),PG-13 , 2h 10min , Biography- Comedy- Drama , 16 November 2018 (USA),Peter Farrelly,8.2
+131,Downfall (2004),Der Untergang (original title), ,8.2
+132,Children of Heaven (1997),Bacheha-Ye aseman (original title),Majid Majidi,8.3
+133,Unforgiven (1992),R , 2h 10min , Drama- Western , 7 August 1992 (USA),Clint Eastwood,8.2
+134,Some Like It Hot (1959),Not Rated , 2h 1min , Comedy- Music- Romance , 19 March 1959 (USA),Billy Wilder,8.2
+135,Ran (1985),R , 2h 42min , Action- Drama- War , 1 June 1985 (Japan),Akira Kurosawa,8.2
+136,Howl's Moving Castle (2004),Hauru no ugoku shiro (original title),Hayao Miyazaki,8.2
+137,The Great Escape (1963),Not Rated , 2h 52min , Adventure- Drama- History , 4 July 1963 (USA),John Sturges,8.2
+138,A Beautiful Mind (2001),PG-13 , 2h 15min , Biography- Drama , 4 January 2002 (USA),Ron Howard,8.2
+139,All About Eve (1950),Passed , 2h 18min , Drama , 27 October 1950 (USA),Joseph L. Mankiewicz,8.2
+140,Casino (1995),R , 2h 58min , Crime- Drama , 22 November 1995 (USA),Martin Scorsese,8.2
+141,Pan's Labyrinth (2006),El laberinto del fauno (original title),Guillermo del Toro,8.2
+142,The Wolf of Wall Street (2013),R , 3h , Biography- Crime- Drama , 25 December 2013 (USA),Martin Scorsese,8.2
+143,The Secret in Their Eyes (2009),El secreto de sus ojos (original title),Juan José Campanella,8.2
+144,My Neighbor Totoro (1988),Tonari no Totoro (original title),Hayao Miyazaki,8.2
+145,Lock- Stock and Two Smoking Barrels (1998),R , 1h 47min , Action- Comedy- Crime , 28 August 1998 (UK),Guy Ritchie,8.2
+146,Raging Bull (1980),R , 2h 9min , Biography- Drama- Sport , 19 December 1980 (USA),Martin Scorsese,8.2
+147,There Will Be Blood (2007),R , 2h 38min , Drama , 25 January 2008 (USA),Paul Thomas Anderson,8.2
+148,The Treasure of the Sierra Madre (1948),Passed , 2h 6min , Adventure- Drama- Western , 24 January 1948 (USA),John Huston,8.2
+149,Judgment at Nuremberg (1961),Approved , 2h 59min , Drama- War , 18 December 1961 (Sweden),Stanley Kramer,8.2
+150,My Father and My Son (2005),Babam ve Oglum (original title), ,8.3
+151,Three Billboards Outside Ebbing- Missouri (2017),R , 1h 55min , Comedy- Crime- Drama , 1 December 2017 (USA),Martin McDonagh,8.2
+152,Dial M for Murder (1954),PG , 1h 45min , Crime- Thriller , 29 May 1954 (USA),Alfred Hitchcock,8.2
+153,The Gold Rush (1925),Passed , 1h 35min , Adventure- Comedy- Drama , 13 July 1925 (Brazil),Charles Chaplin,8.2
+154,Chinatown (1974),R , 2h 10min , Drama- Mystery- Thriller , 20 June 1974 (USA),Roman Polanski,8.2
+155,V for Vendetta (2005),R , 2h 12min , Action- Drama- Sci-Fi , 17 March 2006 (USA),James McTeigue,8.2
+156,No Country for Old Men (2007),R , 2h 2min , Crime- Drama- Thriller , 21 November 2007 (USA),Ethan Coen,8.1
+157,The Seventh Seal (1957),Det sjunde inseglet (original title), ,8.2
+158,Shutter Island (2010),R , 2h 18min , Mystery- Thriller , 19 February 2010 (USA),Martin Scorsese,8.1
+159,Inside Out (2015),PG , 1h 35min , Animation- Adventure- Comedy , 19 June 2015 (USA),Pete Docter,8.1
+160,Warrior (2011),PG-13 , 2h 20min , Action- Drama- Sport , 9 September 2011 (USA),Gavin O'Connor,8.2
+161,The Elephant Man (1980),PG , 2h 4min , Biography- Drama , 10 October 1980 (USA),David Lynch,8.1
+162,Trainspotting (1996),R , 1h 33min , Drama , 9 August 1996 (USA),Danny Boyle,8.1
+163,The Sixth Sense (1999),PG-13 , 1h 47min , Drama- Mystery- Thriller , 6 August 1999 (USA),M. Night Shyamalan,8.1
+164,The Thing (1982),R , 1h 49min , Horror- Mystery- Sci-Fi , 25 June 1982 (USA),John Carpenter,8.1
+165,Jurassic Park (1993),PG-13 , 2h 7min , Action- Adventure- Sci-Fi , 11 June 1993 (USA),Steven Spielberg,8.1
+166,Gone with the Wind (1939),Passed , 3h 58min , Drama- History- Romance , 17 January 1940 (USA),Victor Fleming,8.1
+167,Wild Strawberries (1957),Smultronstället (original title), ,8.2
+168,Blade Runner (1982),R , 1h 57min , Action- Sci-Fi- Thriller , 25 June 1982 (USA),Ridley Scott,8.1
+169,Room (2015),R , 1h 58min , Drama- Thriller , 22 January 2016 (USA),Lenny Abrahamson,8.1
+170,Finding Nemo (2003),G , 1h 40min , Animation- Adventure- Comedy , 30 May 2003 (USA),Andrew Stanton,8.1
+171,The Bridge on the River Kwai (1957),PG , 2h 41min , Adventure- Drama- War , 14 December 1957 (USA),David Lean,8.1
+172,The Truman Show (1998),PG , 1h 43min , Comedy- Drama- Sci-Fi , 5 June 1998 (USA),Peter Weir,8.1
+173,Stalker (1979),Not Rated , 2h 42min , Drama- Sci-Fi , 17 April 1980 (Netherlands),Andrei Tarkovsky,8.2
+174,Kill Bill: Vol. 1 (2003),R , 1h 51min , Action- Crime- Thriller , 10 October 2003 (USA),Quentin Tarantino,8.1
+175,Fargo (1996),R , 1h 38min , Crime- Drama- Thriller , 5 April 1996 (USA),Joel Coen,8.1
+176,The Third Man (1949),Approved , 1h 33min , Film-Noir- Mystery- Thriller , 12 October 1949 (France),Carol Reed,8.1
+177,On the Waterfront (1954),Approved , 1h 48min , Crime- Drama- Thriller , 22 June 1954 (Japan),Elia Kazan,8.1
+178,Gran Torino (2008),R , 1h 56min , Drama , 9 January 2009 (USA),Clint Eastwood,8.1
+179,Tokyo Story (1953),Tôkyô monogatari (original title),Yasujirô Ozu,8.2
+180,Memories of Murder (2003),Salinui chueok (original title),Bong Joon Ho,8.1
+181,The Deer Hunter (1978),R , 3h 3min , Drama- War , 23 February 1979 (USA),Michael Cimino,8.1
+182,Wild Tales (2014),Relatos salvajes (original title),Damián Szifron,8.1
+183,Klaus (2019),PG , 1h 36min , Animation- Adventure- Comedy , 15 November 2019 (USA),Sergio Pablos,8.2
+184,Andhadhun (2018),Not Rated , 2h 19min , Crime- Thriller , 5 October 2018 (USA),Sriram Raghavan,8.3
+185,The Bandit (1996),Eskiya (original title), ,8.3
+186,Mary and Max (2009),Not Rated , 1h 32min , Animation- Comedy- Drama , 9 April 2009 (Australia),Adam Elliot,8.1
+187,In the Name of the Father (1993),R , 2h 13min , Biography- Drama , 25 February 1994 (USA), ,8.1
+188,The Big Lebowski (1998),R , 1h 57min , Comedy- Crime- Sport , 6 March 1998 (USA),Joel Coen,8.1
+189,Gone Girl (2014),R , 2h 29min , Drama- Mystery- Thriller , 3 October 2014 (USA),David Fincher,8.1
+190,Hacksaw Ridge (2016),R , 2h 19min , Biography- Drama- History , 4 November 2016 (USA),Mel Gibson,8.1
+191,The Grand Budapest Hotel (2014),R , 1h 39min , Adventure- Comedy- Crime , 28 March 2014 (USA),Wes Anderson,8.1
+192,Persona (1966),Not Rated , 1h 23min , Drama- Thriller , 16 March 1967 (USA),Ingmar Bergman,8.1
+193,Before Sunrise (1995),R , 1h 41min , Drama- Romance , 27 January 1995 (USA),Richard Linklater,8.1
+194,To Be or Not to Be (1942),Passed , 1h 39min , Comedy- War , 6 March 1942 (USA), ,8.2
+195,Catch Me If You Can (2002),PG-13 , 2h 21min , Biography- Crime- Drama , 25 December 2002 (USA),Steven Spielberg,8.1
+196,Ford v Ferrari (2019),PG-13 , 2h 32min , Action- Biography- Drama , 15 November 2019 (USA),James Mangold,8.1
+197,The General (1926),Passed , 1h 7min , Action- Adventure- Comedy , 2 January 1927 (USA),Clyde Bruckman,8.1
+198,How to Train Your Dragon (2010),PG , 1h 38min , Animation- Action- Adventure , 26 March 2010 (USA),Dean DeBlois,8.1
+199,Prisoners (2013),R , 2h 33min , Crime- Drama- Mystery , 20 September 2013 (USA),Denis Villeneuve,8.1
+200,Mr. Smith Goes to Washington (1939),Passed , 2h 9min , Comedy- Drama , 19 October 1939 (USA),Frank Capra,8.1
+201,Sherlock Jr. (1924),Passed , 45min , Action- Comedy- Romance , 11 May 1924 (USA),Buster Keaton,8.2
+202,12 Years a Slave (2013),R , 2h 14min , Biography- Drama- History , 8 November 2013 (USA),Steve McQueen,8.1
+203,Mad Max: Fury Road (2015),R , 2h , Action- Adventure- Sci-Fi , 15 May 2015 (USA),George Miller,8.1
+204,Barry Lyndon (1975),PG , 3h 5min , Adventure- Drama- History , 18 December 1975 (USA),Stanley Kubrick,8.1
+205,Rififi (1955),Du rififi chez les hommes (original title),Jules Dassin,8.2
+206,Cool Hand Luke (1967),GP , 2h 7min , Crime- Drama , 1 November 1967 (USA),Stuart Rosenberg,8.1
+207,Network (1976),R , 2h 1min , Drama , 27 November 1976 (USA),Sidney Lumet,8.1
+208,Stand by Me (1986),R , 1h 29min , Adventure- Drama , 26 November 1986 (USA),Rob Reiner,8.1
+209,Million Dollar Baby (2004),PG-13 , 2h 12min , Drama- Sport , 28 January 2005 (USA),Clint Eastwood,8.1
+210,Into the Wild (2007),R , 2h 28min , Adventure- Biography- Drama , 19 October 2007 (USA),Sean Penn,8.1
+211,Hachi: A Dog's Tale (2009),G , 1h 33min , Drama- Family , 4 October 2017 (India),Lasse Hallström,8.1
+212,The Wages of Fear (1953),Le salaire de la peur (original title),Henri-Georges Clouzot,8.1
+213,Ben-Hur (1959),G , 3h 32min , Adventure- Drama- History , 29 January 1960 (Brazil),William Wyler,8.1
+214,Monty Python's Life of Brian (1979),Life of Brian (original title),Terry Jones,8.1
+215,Platoon (1986),R , 2h , Drama- War , 6 February 1987 (USA),Oliver Stone,8.1
+216,Dead Poets Society (1989),PG , 2h 8min , Comedy- Drama , 9 June 1989 (USA),Peter Weir,8.1
+217,Rush (2013),R , 2h 3min , Biography- Drama- Sport , 27 September 2013 (USA),Ron Howard,8.1
+218,Harry Potter and the Deathly Hallows: Part 2 (2011),PG-13 , 2h 10min , Adventure- Drama- Fantasy , 15 July 2011 (USA),David Yates,8.1
+219,Logan (2017),R , 2h 17min , Action- Drama- Sci-Fi , 3 March 2017 (USA),James Mangold,8.1
+220,The Passion of Joan of Arc (1928),La passion de Jeanne d'Arc (original title),Carl Theodor Dreyer,8.1
+221,Andrei Rublev (1966),Andrey Rublev (original title), ,8.1
+222,The 400 Blows (1959),Les quatre cents coups (original title),François Truffaut,8.1
+223,Hotel Rwanda (2004),PG-13 , 2h 1min , Biography- Drama- History , 4 February 2005 (USA), ,8.1
+224,The Handmaiden (2016),Ah-ga-ssi (original title),Chan-wook Park,8.1
+225,Amores Perros (2000),Amores perros (original title),Alejandro G. Iñárritu,8.1
+226,Spotlight (2015),R , 2h 9min , Biography- Crime- Drama , 20 November 2015 (USA),Tom McCarthy,8.1
+227,Rang De Basanti (2006),Not Rated , 2h 47min , Comedy- Drama- History , 26 January 2006 (USA),Rakeysh Omprakash Mehra,8.2
+228,Nausicaä of the Valley of the Wind (1984),Kaze no tani no Naushika (original title),Hayao Miyazaki,8.1
+229,Rocky (1976),PG , 2h , Drama- Sport , 3 December 1976 (USA),John G. Avildsen,8.1
+230,La Haine (1995),La haine (original title),Mathieu Kassovitz,8.1
+231,Rebecca (1940),Approved , 2h 10min , Drama- Mystery- Romance , 12 April 1940 (USA),Alfred Hitchcock,8.1
+232,Monsters- Inc. (2001),G , 1h 32min , Animation- Adventure- Comedy , 2 November 2001 (USA),Pete Docter,8.0
+233,Gangs of Wasseypur (2012),R , 5h 21min , Action- Crime- Drama , 22 June 2012 (India),Anurag Kashyap,8.2
+234,Portrait of a Lady on Fire (2019),Portrait de la jeune fille en feu (original title),Céline Sciamma,8.1
+235,The Circus (1928),Passed , 1h 12min , Comedy- Romance , 29 January 1928 (Canada), ,8.2
+236,It Happened One Night (1934),Approved , 1h 45min , Comedy- Romance , 22 February 1934 (USA),Frank Capra,8.1
+237,In the Mood for Love (2000),Fa yeung nin wah (original title),Kar-Wai Wong,8.1
+238,Before Sunset (2004),R , 1h 20min , Drama- Romance , 30 July 2004 (USA),Richard Linklater,8.0
+239,Paris- Texas (1984),R , 2h 25min , Drama , 23 August 1984 (UK),Wim Wenders,8.1
+240,Drishyam (2015),Not Rated , 2h 43min , Crime- Drama- Mystery , 31 July 2015 (USA),Nishikant Kamat,8.2
+241,The Help (2011),PG-13 , 2h 26min , Drama , 10 August 2011 (USA),Tate Taylor,8.1
+242,The Princess Bride (1987),PG , 1h 38min , Adventure- Family- Fantasy , 9 October 1987 (USA),Rob Reiner,8.1
+243,The Invisible Guest (2016),Contratiempo (original title),Oriol Paulo,8.1
+244,The Terminator (1984),R , 1h 47min , Action- Sci-Fi , 26 October 1984 (USA),James Cameron,8.0
+245,Fanny and Alexander (1982),Fanny och Alexander (original title), ,8.1
+246,Swades (2004),Swades: We- the People (original title),Ashutosh Gowariker,8.2
+247,Lagaan: Once Upon a Time in India (2001),PG , 3h 44min , Adventure- Drama- Musical , 15 June 2001 (USA),Ashutosh Gowariker,8.1
+248,Aladdin (1992),G , 1h 30min , Animation- Adventure- Comedy , 25 November 1992 (USA),Ron Clements,8.0
+249,Winter Sleep (2014),Kis Uykusu (original title),Nuri Bilge Ceylan,8.1
+250,PK (2014),Not Rated , 2h 33min , Comedy- Drama- Musical , 19 December 2014 (India),Rajkumar Hirani,8.1
